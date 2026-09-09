@@ -1,4 +1,4 @@
-# Test Cases
+# Checklist
 
 | # | Title | Expected Result |
 |---|-------|------------------|
